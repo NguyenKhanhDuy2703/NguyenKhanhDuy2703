@@ -81,7 +81,7 @@ Unified admin dashboard that bridges two heterogeneous database systems with con
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:nguyenkhanhduy270304@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=nguyenkhanhduy270304@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-nguyenkhanhduy270304-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
