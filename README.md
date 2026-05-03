@@ -1,10 +1,22 @@
 # Hi there, I'm Nguyễn Khánh Duy 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0077B6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20Computer%20Vision-1D9E75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0077B6?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20Computer%20Vision-1D9E75?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NguyenKhanhDuy2703&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
