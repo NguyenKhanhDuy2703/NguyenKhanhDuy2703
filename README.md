@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white" /> 
 </p> 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=NguyenKhanhDuy2703&label=Profile%20views&color=0e75b6&style=flat" /> 
-</p>
+
 
 ## About Me
 
