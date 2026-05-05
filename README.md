@@ -144,8 +144,7 @@ Unified admin dashboard that bridges two heterogeneous database systems with con
       <h3>Data Structures & Algorithms</h3>
       <p>Systematic study of core computer science concepts: arrays, trees, graphs, dynamic programming, and algorithmic problem-solving techniques.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
       </p>
       <a href="https://github.com/NguyenKhanhDuy2703/Data-structures-and-algorithms">View Repository</a>
     </td>
