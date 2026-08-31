@@ -51,10 +51,7 @@ Software Engineer graduated in **Management Information Systems** . I build scal
 ---
 
 **[SpaceLens — AI Retail Analytics Platform](https://github.com/NguyenKhanhDuy2703/space_lens_project)**
-> Full-stack microservices system for real-time in-store customer behavior analysis — 3 independent modules.
-- **MODULE_AI:** YOLOv8 object detection + DeepSORT tracking + heatmap & dwell-time zone analysis on RTSP stream.
-- **MODULE_BE:** Node.js REST API + Redis Pub/Sub message broker + MongoDB + Socket.io real-time push.
-- **MODULE_FE:** React + Redux dashboard with live charts, heatmap visualization, and zone statistics.
+> Full-stack microservices with 3 modules: AI (YOLOv8 + DeepSORT + heatmap), Backend (Node.js + Redis + Socket.io), Frontend (React dashboard).
 
 `Python` `YOLOv8` `DeepSORT` `Node.js` `Redis` `MongoDB` `React.js` `Socket.io`
 
