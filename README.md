@@ -1,166 +1,96 @@
-# Hi there, I'm Nguyễn Khánh Duy 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0077B6?style=for-the-badge&logo=codepen&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20%2F%20Computer%20Vision-1D9E75?style=for-the-badge&logo=opencv&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
-</p>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white" /> 
-</p> 
-
-
-## About Me
-
-I build **intelligent, data-driven web applications** by integrating Machine Learning and Deep Learning models into real-time systems. I'm passionate about turning complex AI research into products that work at scale — from computer vision pipelines to full-stack platforms.
-
-- **Education:** Final-year Management Information Systems student at Duy Tan University
-- **Goal:** Contribute to scalable, intelligent technology products that solve real-world problems
-- **Currently learning:** Cloud Infrastructure & DevOps (Terraform, Docker, CI/CD)
-- **Ask me about:** React.js, Node.js, Computer Vision (YOLOv8, DeepSORT)
-- **Based in:** Da Nang, Vietnam
-
----
-
-## Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python · JavaScript (ES6+) · Java · C++ · C# |
-| **Frontend** | React.js · Tailwind CSS · Redux Toolkit |
-| **Backend** | Node.js · Express.js · FastAPI |
-| **AI & Computer Vision** | YOLOv8 · DeepSORT · OpenCV · CNN · NumPy · Pandas |
-| **Databases** | MySQL · SQL Server · MongoDB · Redis |
-| **DevOps & Tools** | Git · Docker · Terraform · Postman |
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenKhanhDuy2703&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Featured Projects
-
-### StoreLens — Real-Time Retail Optimization with Edge AI
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSORT-00ACC1?style=flat-square&logoColor=white" />
-</p>
-
-> **Role:** Team Leader
-
-AI-powered pipeline for real-time customer behavior analysis inside retail stores. Combines object detection and multi-object tracking to generate actionable shelf and traffic insights for store managers.
-
-**Key achievement:** Built REST APIs serving live inference results with <200 ms latency on edge hardware.
-
-[View Repository](https://github.com/NguyenKhanhDuy2703/STORE_LENS_PROJECT)
-
----
-
-### Multi-Organization Management System
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-> **Role:** Developer
-
-A management system designed to handle operations across multiple organizations, supporting structured data flow and cross-organizational workflows.
-
-[View Repository](https://github.com/NguyenKhanhDuy2703/Multi_Organization_Management_System)
-
----
-
-### Dashboard for Dual Databases
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-> **Role:** Team Leader
-
-Unified admin dashboard that bridges two heterogeneous database systems with consistent transaction management and real-time sync monitoring.
-
-**Key achievement:** Integrated dual-database transactions with automatic rollback and audit logging.
-
-[View Repository](https://github.com/NguyenKhanhDuy2703/Dashboard_in)
-
----
-
-## Learning Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Machine Learning</h3>
-      <p>Notes and hands-on practice covering core ML algorithms: regression, classification, clustering, and classical machine learning models.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      </p>
-      <a href="https://github.com/NguyenKhanhDuy2703/Machine_Learning">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>Terraform Practice</h3>
-      <p>Hands-on Infrastructure as Code with Terraform: cloud resource provisioning, state management, and infrastructure modularization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-      </p>
-      <a href="https://github.com/NguyenKhanhDuy2703/Terraform_practice">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Cloud Learning Journey</h3>
-      <p>Structured exploration of Cloud Computing: AWS architecture, core services, security fundamentals, and cloud application deployment.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://github.com/NguyenKhanhDuy2703/Cloud-Learning-Journey">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>Data Structures & Algorithms</h3>
-      <p>Systematic study of core computer science concepts: arrays, trees, graphs, dynamic programming, and algorithmic problem-solving techniques.</p>
-      <p>
-       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-      </p>
-      <a href="https://github.com/NguyenKhanhDuy2703/Data-structures-and-algorithms">View Repository</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Connect with Me
+# Hi, I'm Nguyễn Khánh Duy 👋
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&to=nguyenkhanhduy270304@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nguyenkhanhduy270304-D14836?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-0077B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-1D9E75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Parquet-5B60A8?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+Software Engineer graduated in **Management Information Systems** (Duy Tan University). I design and build scalable data pipelines, cloud-native infrastructure, AI-powered retrieval systems, and full-stack web applications — focused on writing clean, production-grade systems that solve real problems.
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Data Engineering** | Python · Apache Parquet (Snappy) · PyArrow · Pandas · SQLite FTS5 (BM25) · Batch Pipelines · DLQ |
+| **Cloud & Infrastructure** | AWS (S3 · Lambda · Step Functions · Athena · Glue · EKS) · Terraform · Kubernetes · ArgoCD |
+| **DevOps & CI/CD** | Docker · GitHub Actions · GitOps · DevSecOps · CI/CD Pipelines |
+| **AI & Knowledge Retrieval** | RAG (Retrieval-Augmented Generation) · YOLOv8 · DeepSORT · OpenCV · Computer Vision |
+| **Backend** | FastAPI · Node.js · Express.js · RESTful APIs |
+| **Frontend** | React.js · Redux Toolkit · Tailwind CSS · JavaScript (ES6+) |
+| **Databases** | SQLite · MySQL · SQL Server · MongoDB · Redis |
+| **Languages** | Python · JavaScript · Java · C++ · C# · SQL · HCL |
+
+---
+
+## 🌟 Featured Projects
+
+**[RedStar Financial — Data Engineering & Knowledge Platform](https://github.com/NguyenKhanhDuy2703/data-engineer-assessment-kduy)**
+> Batch Log Analytics Pipeline & Local RAG Knowledge Retrieval Engine
+
+- Streaming ingestion with dead-letter queue (DLQ) isolation, heartbeat imputation, timezone normalization, and Snappy-compressed Apache Parquet export with automated Pandas analytics.
+- SQLite FTS5 (BM25) knowledge search engine with structural Markdown chunking, 11-field metadata schema, and automated policy version conflict resolution (`v1.0` vs `v2.0`).
+- Serverless AWS batch Data Lake architecture (EventBridge → Step Functions → Lambda → S3 → Athena).
+
+`Python` `Pandas` `PyArrow` `Apache Parquet` `SQLite FTS5` `AWS Architecture`
+
+---
+
+**[StoreLens — Real-Time Retail Intelligence with Edge AI](https://github.com/NguyenKhanhDuy2703/STORE_LENS_PROJECT)**
+> Team Leader · AI-powered retail behavior analytics pipeline
+
+- Real-time customer tracking and shelf analysis using YOLOv8 object detection and DeepSORT multi-object tracking on edge hardware.
+- REST APIs delivering live inference results with < 200 ms latency to a full-stack React + Node.js dashboard.
+
+`Python` `YOLOv8` `DeepSORT` `FastAPI` `React.js` `Node.js` `MongoDB`
+
+---
+
+**[AWS EKS & ArgoCD GitOps](https://github.com/NguyenKhanhDuy2703/practic_eks_argorcd_aws)**
+> Cloud-native Kubernetes infrastructure with automated GitOps delivery
+
+- Provisioning and managing production Kubernetes clusters on AWS EKS with ArgoCD-based GitOps workflows and Terraform Infrastructure as Code.
+
+`Kubernetes` `AWS EKS` `ArgoCD` `Terraform` `Docker`
+
+---
+
+**[Dashboard for Dual Databases](https://github.com/NguyenKhanhDuy2703/Dashboard_in)**
+> Team Leader · Unified admin dashboard bridging heterogeneous database systems
+
+- Integrated dual-database (SQL Server + MySQL) transactions with automatic rollback and real-time audit logging.
+
+`React.js` `Node.js` `SQL Server` `MySQL`
+
+---
+
+## 📬 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/duy-nguyễn-khánh-4477a2355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/duy-nguy%E1%BB%85n-kh%C3%A1nh-4477a2355/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="mailto:nguyenkhanhduy270304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NguyenKhanhDuy2703">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
