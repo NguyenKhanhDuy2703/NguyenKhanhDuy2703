@@ -44,10 +44,24 @@ Software Engineer graduated in **Management Information Systems** (Duy Tan Unive
 
 ---
 
-**[StoreLens — Real-Time Retail Intelligence](https://github.com/NguyenKhanhDuy2703/StoreLens_Project)**
+**[StoreLens — Real-Time Retail Intelligence](https://github.com/NguyenKhanhDuy2703/STORE_LENS_PROJECT)**
 > Team Leader · AI-powered customer behavior analytics with < 200ms inference latency.
 
 `YOLOv8` `DeepSORT` `FastAPI` `React.js` `MongoDB`
+
+---
+
+**[SpaceLens — StoreLens v2 Backend](https://github.com/NguyenKhanhDuy2703/space_lens_project)**
+> Upgraded RESTful API backend for the StoreLens system with ORM, dual-database, and cloud media support.
+
+`Node.js` `Express.js` `Sequelize ORM` `MySQL` `SQL Server` `Cloudinary` `JWT`
+
+---
+
+**[Multi-Organization Management System](https://github.com/NguyenKhanhDuy2703/Multi_Organization_Management_System)**
+> Multi-tenant task management platform with role-based access control (Admin / Manager / Member).
+
+`Node.js` `Express.js` `JWT` `MySQL` `RBAC`
 
 ---
 
