@@ -1,21 +1,21 @@
 # Hi, I'm Nguyễn Khánh Duy 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Dev-1D9E75?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-1D9E75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=plastic&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=plastic&logo=opencv&logoColor=white" />
 </p>
 
 Software Engineer graduated in **Management Information Systems** (Duy Tan University). I build scalable data pipelines, cloud-native infrastructure, and full-stack applications focused on production-grade systems.
@@ -81,7 +81,7 @@ Software Engineer graduated in **Management Information Systems** (Duy Tan Unive
 ## 📬 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/duy-nguyễn-khánh-4477a2355/">
+  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-kh%C3%A1nh-duy-4477a2355/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nguyenkhanhduy270304@gmail.com">
