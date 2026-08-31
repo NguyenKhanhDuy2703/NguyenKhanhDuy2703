@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=plastic&logo=opencv&logoColor=white" />
 </p>
 
-Software Engineer graduated in **Management Information Systems** (Duy Tan University). I build scalable data pipelines, cloud-native infrastructure, and full-stack applications focused on production-grade systems.
+Software Engineer graduated in **Management Information Systems** . I build scalable data pipelines, cloud-native infrastructure, and full-stack applications focused on production-grade systems.
 
 ---
 
