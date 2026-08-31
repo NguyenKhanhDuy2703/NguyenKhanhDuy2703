@@ -1,9 +1,9 @@
-# Hi, I'm Nguyễn Khánh Duy 👋
+# Hi, I'm Nguyễn Khánh Duy ☀️
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Dev-1D9E75?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF9900?style=flat" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-1D9E75?style=flat" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=flat" />
 </p>
 
 <p align="left">
@@ -82,12 +82,12 @@ Software Engineer graduated in **Management Information Systems** (Duy Tan Unive
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-kh%C3%A1nh-duy-4477a2355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" />
   </a>
   <a href="mailto:nguyenkhanhduy270304@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat" />
   </a>
   <a href="https://github.com/NguyenKhanhDuy2703">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat" />
   </a>
 </p>
