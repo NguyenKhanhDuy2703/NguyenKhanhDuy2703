@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=plastic&logo=opencv&logoColor=white" />
 </p>
 
-Software Engineer graduated in **Management Information Systems** . I build scalable data pipelines, cloud-native infrastructure, and full-stack applications focused on production-grade systems.
+Software Engineer graduated in **Management Information Systems**. I build scalable data pipelines, cloud-native infrastructure, and full-stack applications focused on production-grade systems.
 
 ---
 
@@ -26,8 +26,8 @@ Software Engineer graduated in **Management Information Systems** . I build scal
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Data & AI** | Python · Pandas · SQLite · RAG · YOLOv8 · OpenCV |
-| **Cloud & DevOps** | AWS · Kubernetes · Terraform · Docker · ArgoCD · CI/CD |
+| **Data & AI** | Python · Pandas · SQLite · RAG · YOLOv8 · OpenCV · DeepSORT |
+| **Cloud & DevOps** | AWS · Kubernetes · Terraform · Docker · ArgoCD · CI/CD · Prometheus · Grafana |
 | **Backend** | FastAPI · Node.js · Express.js |
 | **Frontend** | React.js · Tailwind CSS · Redux Toolkit |
 | **Databases** | MySQL · SQL Server · MongoDB · Redis |
@@ -36,6 +36,20 @@ Software Engineer graduated in **Management Information Systems** . I build scal
 
 ## 🌟 Featured Projects
 
+**[SpaceLens — AI Retail Analytics Platform](https://github.com/NguyenKhanhDuy2703/space_lens_project)**
+> Team Leader · Full-stack microservices platform for real-time retail intelligence (< 200ms inference latency). Architected across 3 modules: AI engine (YOLOv8 + DeepSORT + heatmap tracking), Backend event streaming (Node.js + Redis + Socket.io), and Interactive analytics dashboard (React.js).
+
+`Python` `YOLOv8` `DeepSORT` `FastAPI` `Node.js` `Redis` `MongoDB` `React.js` `Socket.io`
+
+---
+
+**[Triage Hub — AIOps Incident Triage Automation](https://github.com/NguyenKhanhDuy2703/practic_eks_argorcd_aws)**
+> Production-grade AIOps incident triage platform on AWS EKS with GitOps delivery (ArgoCD), Terraform IaC, full observability stack, and automated incident enrichment for ~50 SaaS microservices.
+
+`AWS EKS` `Kubernetes` `ArgoCD` `Terraform` `AIOps` `Prometheus` `Grafana` `GitOps`
+
+---
+
 **[RedStar Financial — Data Pipeline & Knowledge Platform](https://github.com/NguyenKhanhDuy2703/data-engineer-assessment-kduy)**
 > Batch log analytics pipeline & local RAG knowledge retrieval engine on AWS architecture.
 
@@ -43,31 +57,10 @@ Software Engineer graduated in **Management Information Systems** . I build scal
 
 ---
 
-**[StoreLens — Real-Time Retail Intelligence](https://github.com/NguyenKhanhDuy2703/STORE_LENS_PROJECT)**
-> Team Leader · AI-powered customer behavior analytics with < 200ms inference latency.
-
-`YOLOv8` `DeepSORT` `FastAPI` `React.js` `MongoDB`
-
----
-
-**[SpaceLens — AI Retail Analytics Platform](https://github.com/NguyenKhanhDuy2703/space_lens_project)**
-> Full-stack microservices with 3 modules: AI (YOLOv8 + DeepSORT + heatmap), Backend (Node.js + Redis + Socket.io), Frontend (React dashboard).
-
-`Python` `YOLOv8` `DeepSORT` `Node.js` `Redis` `MongoDB` `React.js` `Socket.io`
-
----
-
 **[Multi-Organization Management System](https://github.com/NguyenKhanhDuy2703/Multi_Organization_Management_System)**
 > Multi-tenant task management platform with role-based access control (Admin / Manager / Member).
 
 `Node.js` `Express.js` `JWT` `MySQL` `RBAC`
-
----
-
-**[AWS EKS & ArgoCD GitOps](https://github.com/NguyenKhanhDuy2703/practic_eks_argorcd_aws)**
-> Kubernetes clusters on AWS EKS with GitOps delivery via ArgoCD and Terraform IaC.
-
-`Kubernetes` `AWS EKS` `ArgoCD` `Terraform`
 
 ---
 
